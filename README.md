@@ -1,3 +1,22 @@
+<h1>Desafio React Hamburgueria do Scoob. 🍔😋</h1>
+<br>
+<p>Desafio do módulo de React da Hamburgueria do Scoob foi o meu primeiro contato com a biblioteca React. Estava bastante ansiosa para aprende-lá, pois vejo muitos projetos, estudos e muita atuação da 
+mesma no campo da programação. Com ela aprendi a mesclar códigos HTML, CSS e JavaScript. Sei que podemos utiliza-lá com diversas bibliotecas, frameowrks e linguagens. E o bom dessa desafio foi incrementar o Back End, no qual fiz as rotas de Get, Post, Put e Delete, utilizei o Insominia para desenvolver a minha API de pedidos e de clientes. Feito isso, fiz a conexão do lado Back e Front.
+  <br>
+   </p>
+
+<img src="src/assets/scoob2.jpg" >
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
